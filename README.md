@@ -8,38 +8,73 @@
 <img src="https://cdn-icons-png.flaticon.com/128/4726/4726010.png" width="28"/> 
 **[Documentación Tutorial 1 (PDF)](https://github.com/jaarriaga/Plataforma2D/blob/main/Lecci%C3%B3n%201_jaar.pdf)**  
 
-<img src="https://cdn-icons-png.flaticon.com/128/10090/10090287.png" width="28"/> 
-**[Video Tutorial 2](https://youtu.be/aLnk9Uga1-o)**
-
-
-
 ## Tutorial 2 (Dar click para acceder)
 
-| Vista previa | Enlaces Tutorial 2 |
-|-------------|--------------------|
-| <img src="https://github.com/jaarriaga/ProgramaVideojuego1/blob/main/Tutoriales/Tutorial2/Tutorial%202%20foto.png?raw=true" width="300"> | <img src="https://cdn-icons-png.flaticon.com/128/10090/10090287.png" width="28"/> **[Video Tutorial 2](https://youtu.be/aLnk9Uga1-o)** <br><br> <img src="https://cdn-icons-png.flaticon.com/128/4726/4726010.png" width="28"/> **[Documentación Tutorial 2 (PDF)](https://github.com/jaarriaga/ProgramaVideojuego1/blob/main/Tutoriales/Tutorial2/Tutorial2Documentacion.pdf)** |
+<img src="https://cdn-icons-png.flaticon.com/128/4726/4726010.png" width="28"/> 
+**[Documentación Tutorial 2 (PDF)](https://github.com/jaarriaga/Plataforma2D/blob/main/Lecci%C3%B3n%202_jaar.pdf)**  
 
----
+## Tutorial 3 (Dar click para acceder)
+
+<img src="https://cdn-icons-png.flaticon.com/128/4726/4726010.png" width="28"/> 
+**[Documentación Tutorial 3 (PDF)](https://github.com/jaarriaga/Plataforma2D/blob/main/Lecci%C3%B3n%203_jaar.pdf)**  
+
+## Tutorial 4 (Dar click para acceder)
+
+<img src="https://cdn-icons-png.flaticon.com/128/4726/4726010.png" width="28"/> 
+**[Documentación Tutorial 4 (PDF)](https://github.com/jaarriaga/Plataforma2D/blob/main/Lecci%C3%B3n%203_jaar.pdf)**  
 
 ## Tutorial 5 (Dar click para acceder)
 
-| Vista previa | Enlaces Tutorial 5 |
-|-------------|--------------------|
-| <img src="https://github.com/jaarriaga/ProgramaVideojuego1/blob/main/Tutoriales/tutorial5/clicky%20crates.png?raw=true" width="300"> | <img src="https://cdn-icons-png.flaticon.com/128/10090/10090287.png" width="28"/> **[Video Tutorial 5](https://youtu.be/-2hxoSBYhQo)** <br><br> <img src="https://cdn-icons-png.flaticon.com/128/4726/4726010.png" width="28"/> **[Documentación Tutorial 5 (PDF)](https://github.com/jaarriaga/ProgramaVideojuego1/blob/main/Tutoriales/tutorial5/Tutorial5Documentacion.pdf)** |
+<img src="https://cdn-icons-png.flaticon.com/128/4726/4726010.png" width="28"/> 
+**[Documentación Tutorial 4 (PDF)](https://github.com/jaarriaga/Plataforma2D/blob/main/Lecci%C3%B3n%205_jaar.pdf)**  
 
----
+## Tutorial 6 (Dar click para acceder)
 
-[![Ver Video Nivel 1](https://github.com/jaarriaga/ProgramaVideojuego1/blob/main/Tutoriales/ProyectoVideojuego3D/TestNivel1.png?raw=true)](https://youtu.be/aVc-NSes3kM)
+<img src="https://cdn-icons-png.flaticon.com/128/4726/4726010.png" width="28"/> 
+**[Documentación Tutorial 6 (PDF)](https://github.com/jaarriaga/Plataforma2D/blob/main/Lecci%C3%B3n%206_jaar.pdf)**  
+
+## Tutorial 7 (Dar click para acceder)
+
+<img src="https://cdn-icons-png.flaticon.com/128/4726/4726010.png" width="28"/> 
+**[Documentación Tutorial 7 (PDF)](https://github.com/jaarriaga/Plataforma2D/blob/main/Lecci%C3%B3n%207_jaar.pdf)**  
+
+## Tutorial 8 (Dar click para acceder)
+
+<img src="https://cdn-icons-png.flaticon.com/128/4726/4726010.png" width="28"/> 
+**[Documentación Tutorial 8 (PDF)](https://github.com/jaarriaga/Plataforma2D/blob/main/Lecci%C3%B3n%208_jaar.pdf)**  
+
+## Tutorial 9 (Dar click para acceder)
+
+<img src="https://cdn-icons-png.flaticon.com/128/4726/4726010.png" width="28"/> 
+**[Documentación Tutorial 9 (PDF)](https://github.com/jaarriaga/Plataforma2D/blob/main/Lecci%C3%B3n%209_jaar.pdf)**  
+
+## Tutorial 10 (Dar click para acceder)
+
+<img src="https://cdn-icons-png.flaticon.com/128/4726/4726010.png" width="28"/> 
+**[Documentación Tutorial 10 (PDF)](https://github.com/jaarriaga/Plataforma2D/blob/main/Lecci%C3%B3n%2010_jaar.pdf)**  
+
+## Tutorial 11 (Dar click para acceder)
+
+<img src="https://cdn-icons-png.flaticon.com/128/4726/4726010.png" width="28"/> 
+**[Documentación Tutorial 11 (PDF)](https://github.com/jaarriaga/Plataforma2D/blob/main/Lecci%C3%B3n%2011_jaar.pdf)**  
+
+## Tutorial 12 (Dar click para acceder)
+
+<img src="https://cdn-icons-png.flaticon.com/128/4726/4726010.png" width="28"/> 
+**[Documentación Tutorial 12 (PDF)](https://github.com/jaarriaga/Plataforma2D/blob/main/Lecci%C3%B3n%2012_jaar.pdf)**  
+
+## Tutorial 13 (Dar click para acceder)
+
+<img src="https://cdn-icons-png.flaticon.com/128/4726/4726010.png" width="28"/> 
+**[Documentación Tutorial 12 (PDF)](https://github.com/jaarriaga/Plataforma2D/blob/main/Lecci%C3%B3n%2013_jaar.pdf)**
+
+## Tutorial 14 (Dar click para acceder)
+
+<img src="https://cdn-icons-png.flaticon.com/128/4726/4726010.png" width="28"/> 
+**[Documentación Tutorial 14 (PDF)](https://github.com/jaarriaga/Plataforma2D/blob/main/Lecci%C3%B3n%2014_jaar.pdf)**
 
 
-[![Ver Video Nivel 2](https://github.com/jaarriaga/ProgramaVideojuego1/blob/main/Tutoriales/ProyectoVideojuego3D/TestNivel2.png?raw=true)](https://youtu.be/u3JvrDCAs64)
 
-[![Ver Video Nivel 3](https://github.com/jaarriaga/ProgramaVideojuego1/blob/main/Tutoriales/ProyectoVideojuego3D/TestNivel3.jpg?raw=true)](https://youtu.be/zF6YBr2hzec)
 
-[![juega en la web](https://github.com/jaarriaga/ProgramaVideojuego1/blob/main/Tutoriales/ProyectoVideojuego3D/WebGLitchio.jpg?raw=true)](https://jaarriaga.itch.io/test-de-conduccin)
 
-## video test windows android y WebGL
-[![Prueba Multiplataforma](https://github.com/jaarriaga/ProgramaVideojuego1/blob/main/Tutoriales/ProyectoVideojuego3D/windows.jpg)](https://youtu.be/FAYjiaxsAOI)
 
-## Documento PDF Modelo de Negocio
-[![Prueba Multiplataforma](https://github.com/jaarriaga/ProgramaVideojuego1/blob/main/Tutoriales/ModeloDeNegocios/pfdImagen.jpg?raw=true)](https://docs.google.com/document/d/18ulThalDkBMrpLAhgNYvq0jtSnMfHveK/edit?usp=sharing&ouid=115753835438823514056&rtpof=true&sd=true)
