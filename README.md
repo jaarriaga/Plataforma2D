@@ -5,11 +5,13 @@
 
 ## Tutorial 1 (Dar click para acceder)
 
-| Vista previa | Enlaces Tutorial 1 |
-|-------------|--------------------|
-| <img src="https://github.com/jaarriaga/ProgramaVideojuego1/blob/main/Tutoriales/Tutorial1/Tutorial%201.png?raw=true" width="300"> | <img src="https://cdn-icons-png.flaticon.com/128/10090/10090287.png" width="28"/> **[Video Tutorial 1](https://youtu.be/J7GEu1sZYv0)** <br><br>  **[Documentación Tutorial 1 (PDF)](https://github.com/jaarriaga/Plataforma2D/blob/main/Lecci%C3%B3n%201_jaar.pdf)** |
+<img src="https://cdn-icons-png.flaticon.com/128/4726/4726010.png" width="28"/> 
+**[Documentación Tutorial 1 (PDF)](https://github.com/jaarriaga/Plataforma2D/blob/main/Lecci%C3%B3n%201_jaar.pdf)**  
 
----
+<img src="https://cdn-icons-png.flaticon.com/128/10090/10090287.png" width="28"/> 
+**[Video Tutorial 2](https://youtu.be/aLnk9Uga1-o)**
+
+
 
 ## Tutorial 2 (Dar click para acceder)
 
